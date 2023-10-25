@@ -14,7 +14,7 @@
 
         <TextView
             android:id="@+id/first_name2"
-            android:layout_width=""
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="@string/first_name"
@@ -22,7 +22,7 @@
 
         <TextView
             android:id="@+id/last_name2"
-            android:layout_width=""
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="@string/last_name"
